@@ -1,0 +1,10 @@
+*** Don't use this text ***
+
+This is an example of text that can be in a text file.
+
+Today is Monday. We still don't have Abby. Oh well
+Good job, class. I am so proud of you!!!
+
+*** This is not for use ***
+
+random text
